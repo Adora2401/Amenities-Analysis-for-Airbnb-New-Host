@@ -1,5 +1,7 @@
 # Amenities-Analysis-for-Airbnb-New-Host
+## can be considered as a more detailed solution to New York City Airbnb Open Data https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 This project is about giving advice about amenity for Airbnb's new hosts in NYC by collecting, combining and analyzing the influence of amenities.
+
 
 What I did:
 • Collected and preprocessed over 40000 pieces of data of NYC Airbnb; used Python build multiple machine learning
